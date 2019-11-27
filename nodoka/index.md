@@ -12,6 +12,6 @@ date: 2017-12-15 13:56:00
 
 Nodoka is a simple but powerful meditation timer. Available for iPhone now!
 
-If you have any questions or inquiries, please send me an email to [stefandesu@exo.pm](mailto:stefandesu@exo.pm) or hit me up on Twitter [@stefandesu](https://twitter.com/stefandesu).
+If you have any questions or inquiries, please send me an email to [jonathanpperry@exo.pm](mailto:jonathanpperry@exo.pm) or hit me up on Twitter [@jonathanpperry](https://twitter.com/jonathanpperry).
 
 Owl by Ana Pas from [the Noun Project](https://thenounproject.com/term/owl/12773/).

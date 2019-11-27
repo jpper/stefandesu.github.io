@@ -1,10 +1,10 @@
 remote_theme: stefandesu/exo-blog-theme
-title: Stefanです
+title: Jonathanです
 logo: /images/bowl2_2x.png
 email: stefandesu@exo.pm
-description: Developer (mainly Swift, JavaScript, Python). Climber. Japan Enthusiast.
-twitter_username: stefandesu
-github_username:  stefandesu
+description: Developer (mainly Ionic, JavaScript, Vue). Christian. Japan Enthusiast.
+twitter_username: jonathanpperry
+github_username:  jpper
 permalink: pretty
 plugins: [jekyll-paginate, jekyll-redirect-from]
 paginate: 10
@@ -32,5 +32,5 @@ navigation:
     name: Contact
     url: /contact/
 footer: |
-  Copyright ©2019 Stefan Peters. [Impressum](/impressum/).
-  <br>Logo made by my flatmate Salo. Thanks. :3
+  Copyright ©2019 Jonathan Perry. [Impressum](/impressum/).
+  <br>Whole app made by Stefan Peters. Thanks. :3
